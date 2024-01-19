@@ -1,1 +1,1 @@
-# first_lesson1
+# python_basic
